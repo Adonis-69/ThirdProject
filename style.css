@@ -112,3 +112,9 @@ body{
 .register-link p a:hover{
     text-decoration:underline;
 }
+
+@media screen and (max-width:420px){
+    .wrapper{
+        width:300px;
+    }
+}
